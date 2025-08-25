@@ -17,13 +17,17 @@ An Aspiring Web Developer from Lahore, Pakistan
 ### 🌐 Connect with me
 
 <p align="left">
+  <!-- LinkedIn Official Icon -->
   <a href="https://www.linkedin.com/in/zain-ul-abidin-851a9630b/" target="_blank">
-    <img src="icons8-linkedin-48" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+
+  <!-- Facebook Official Icon -->
   <a href="https://www.facebook.com/Zain.Qureshi.705" target="_blank">
-    <img src="icons8-facebook-48" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
 </p>
+
 
 ### ⚒️ Languages and Tools  
 
