@@ -18,10 +18,10 @@ An Aspiring Web Developer from Lahore, Pakistan
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zain-ul-abidin-851a9630b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="icons8-linkedin-48" />
   </a>
   <a href="https://www.facebook.com/Zain.Qureshi.705" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="icons8-facebook-48" />
   </a>
 </p>
 
